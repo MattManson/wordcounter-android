@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">COUNTER OF WORDZ</string>
+    <string name="countThisText">text for counting goes here..</string>
+    <string name="count">Count!</string>
+</resources>
